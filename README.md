@@ -1,4 +1,4 @@
-# Analysis-on-bike-sharing-company
+# Analysis-On-A-Bike-Sharing-Company
 An analysis to understand the differences between the types of members in a bike-share company.( A Google Data Analytics Capstone Project)
 
 
