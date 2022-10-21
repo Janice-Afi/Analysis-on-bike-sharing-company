@@ -1,5 +1,8 @@
 # Analysis-on-bike-sharing-company
-An analysis to understand the differences between the types of members in a bike-share company.( A Google Data Analytics Capstone Project D
+An analysis to understand the differences between the types of members in a bike-share company.( A Google Data Analytics Capstone Project)
+
+
+
 CYCLISTIC BIKE-SHARE COMPANY IN CHICAGO
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
